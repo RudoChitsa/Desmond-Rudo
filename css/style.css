@@ -1,0 +1,9 @@
+body {
+  background-color: tan;
+}
+#navbar {
+	position: fixed;
+}
+#welcome-section{
+	height: 100vh
+}
